@@ -1,0 +1,25 @@
+<? versión xml = " 1.0 " ?>
+< raíz >
+    < generos >
+    	< genero >
+    		< titulo > Reggaeton </ titulo >
+    		< canciones > 2 </ canciones >
+    	</ genero >
+    	< genero >
+    		< titulo > Bachata </ titulo >
+    		< canciones > 4 </ canciones >
+    	</ genero >
+    	< genero >
+    		< titulo > Vallenato </ titulo >
+    		< canciones > 2 </ canciones >
+    	</ genero >
+    	< genero >
+    		< titulo > Salsa </ titulo >
+    		< canciones > 4 </ canciones >
+    	</ genero >
+    	< genero >
+    		< titulo > Merengue </ titulo >
+    		< canciones > 4 </ canciones >
+    	</ genero >
+    </ generos >
+</ root >
